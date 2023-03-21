@@ -1,0 +1,15 @@
+{
+  "name": "simcwh",
+  "version": "1.0.0",
+  "description": "This is when we are studying express in vid 70",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "simmi ji",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}
